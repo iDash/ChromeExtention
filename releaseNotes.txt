@@ -31,12 +31,12 @@
 - fix founded bugs
 
 
-1.0
-- fully support Encounter engine.
-- fix bugs
+
 
 
 2.0
 - support rush engine
 
+2.1
+- add new lines
  
