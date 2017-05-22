@@ -1,0 +1,16 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #eee;
+	font-family: Verdana, Tahoma;
+	font-size:12px;
+}
+
+.login{
+	padding: 10px;
+}
+
+.line{
+	padding: 5px;
+	padding-bottom: 10px;
+}

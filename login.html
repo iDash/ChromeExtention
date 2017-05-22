@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="scripts/jquery.js"></script>
+    <script src="scripts/connect.js"></script>
+	<link href="styles/common.css" rel="stylesheet" media="all" />
+</head>
+
+
+<body>
+
+<div class="login">
+	<div class="line">
+		Domain:
+		<select name="domain">
+			<option value="en">Encounter</option>
+			<option value="rush">Rush (not supported)</option>
+		</select>
+	</div>
+	
+	<div class="line">
+		Login: <input type="text" name="login" />
+	</div>
+		
+	<div class="line">
+		Password: <input type="password" name="password" />
+	</div>
+
+	<div class="line">
+		<input id="connect" type="submit" value="Connect" />
+	</div>
+	
+	<div class="error"></div>
+	
+</div>
+
+
+<div class="setup">
+	<div class="line">
+		Login: <input type="text" name="login" />
+	</div>
+		
+	<div class="line">
+		Password: <input type="password" name="password" />
+	</div>
+	
+	<div class="line">
+		<input id="back" type="submit" value="Back" />
+	</div>
+</div>
+
+</body>
+</html>

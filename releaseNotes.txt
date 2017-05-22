@@ -1,0 +1,42 @@
+0.1 
+- Basic structure
+- Logging in to Encounter server
+- Fix possible cookie issues
+
+0.2
+- retrieving response from server (task)
+- periodically ping for a new task
+
+0.3
+- formatting response
+
+0.4
+- provide data for Telegram bot
+
+0.5
+- support hints 
+
+0.6
+- grab data from telegram and post it to the engine
+- support bonus inputs
+
+0.7
+- reconnect automatically
+
+0.8
+- smart bot (textarea with codes for a check)
+
+0.9
+- refactor game parameters
+- fix founded bugs
+
+
+1.0
+- fully support Encounter engine.
+- fix bugs
+
+
+2.0
+- support rush engine
+
+ 
